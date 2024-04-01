@@ -2,6 +2,8 @@
   "name": "shrekk",
   "displayName": "shrekk",
   "description": "oh hello there!",
+  "publisher": "jeooo",
+  "icon": "images/shrekk.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
